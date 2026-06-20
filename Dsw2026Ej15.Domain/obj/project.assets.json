@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
       "projectName": "Dsw2026Ej15.Domain",
-      "projectPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
+      "projectPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj",
       "packagesPath": "C:\\Users\\Guzman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

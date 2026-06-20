@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dsw2026Ej15.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd42ebf911214cbae197b57f466e363cb1349ffa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dsw2026Ej15.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dsw2026Ej15.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
       "projectName": "Dsw2026Ej15.Api",
-      "projectPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
+      "projectPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Api\\Dsw2026Ej15.Api.csproj",
       "packagesPath": "C:\\Users\\Guzman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Api\\obj\\",
+      "outputPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -565,11 +565,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj": {
-              "projectPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj"
+            "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj": {
+              "projectPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Data\\Dsw2026Ej15.Data.csproj"
             },
-            "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj": {
-              "projectPath": "C:\\Users\\Guzman\\source\\repos\\Dsw2026Ej15\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj"
+            "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj": {
+              "projectPath": "C:\\Users\\Guzman\\OneDrive\\Documentos\\ProjectosGIT\\Ej15-57967-58490\\ej15-57967-58490\\Dsw2026Ej15.Domain\\Dsw2026Ej15.Domain.csproj"
             }
           }
         }
@@ -619,7 +619,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
